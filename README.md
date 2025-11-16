@@ -153,9 +153,11 @@ Mac/Linus
 source venv/bin/activate
 
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Run Streamlit Web App
+
 streamlit run app.py
 
 Streamlit will launch at:
