@@ -204,11 +204,22 @@ Confidence
 
 Grad-CAM heatmap (if tumor detected)
 
+Application UI
 ![App Screenshot](Images/UI.jpg)
+
+Click on console
 ![App Screenshot](Images/console.jpg)
-![App Screenshot](Images/heatmap.jpg)
+
+Upload Image and predict
+No tumor - 
 ![App Screenshot](Images/noTumor.jpg)
+
+Tumor Image - 
 ![App Screenshot](Images/tumor.jpg)
+
+Heatmap to highlight tumor - 
+![App Screenshot](Images/heatmap.jpg)
+
 
 
 
