@@ -204,6 +204,14 @@ Confidence
 
 Grad-CAM heatmap (if tumor detected)
 
+![App Screenshot](Images/UI.jpg)
+![App Screenshot](Images/console.jpg)
+![App Screenshot](Images/heatmap.jpg)
+![App Screenshot](Images/noTumor.jpg)
+![App Screenshot](Images/tumor.jpg)
+
+
+
 ---
 
 👨‍💻 Developers
