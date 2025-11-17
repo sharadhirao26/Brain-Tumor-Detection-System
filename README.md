@@ -227,8 +227,8 @@ Heatmap to highlight tumor -
 
 👨‍💻 Developers
 
-Sharadhi Rao
+UCE2023456 - Sharadhi Rao
 
-Siya Amrutkar
+UCE2023466 - Siya Amrutkar
 
-Ayushi Bindroo
+UCE2023401 - Ayushi Bindroo
