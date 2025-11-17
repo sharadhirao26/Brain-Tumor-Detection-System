@@ -14,9 +14,9 @@ The objective of this project is to develop an accurate, transparent, and user-f
 
 📂 Dataset Details
 **Dataset:** Brain Tumor MRI Dataset  
-**Total images:** ~253  
-- Tumor: ~155  
-- No Tumor: ~98  
+**Total images:** ~460
+- Tumor: ~255  
+- No Tumor: ~205  
 
 **Dataset Characteristics:**
 - Real MRI scans  
